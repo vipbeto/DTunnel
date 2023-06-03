@@ -215,7 +215,7 @@ echo
 
     case $option in
     01 | 1)
-    bash <(curl -sL https://raw.githubusercontent.com/ScottBrabo/DTunnel/master/DtUploader.sh)
+    bash <(curl -sL https://raw.githubusercontent.com/ScottBrabo/DTunnel/main/DtUploader.sh)
         ;;
     02 | 2)
     echo '[×] Reiniciando Painel...
@@ -224,7 +224,7 @@ echo
               rm -rf DownloaderPage
               rm -rf DtUploader.sh
               rm -rf screen
-              bash <(curl -sL https://raw.githubusercontent.com/ScottBrabo/DTunnel/master/DtUploader.sh)
+              bash <(curl -sL https://raw.githubusercontent.com/ScottBrabo/DTunnel/main/DtUploader.sh)
         ;;
     03 | 3)
        rm -rf DownloaderPage
