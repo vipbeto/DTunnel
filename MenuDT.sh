@@ -218,7 +218,7 @@ echo
     bash <(curl -sL https://raw.githubusercontent.com/ScottBrabo/DTunnel/main/DtUploader.sh)
         ;;
     02 | 2)
-    echo '[×] Reiniciando Painel...
+    echo '[×] Reiniciando Painel...'
     sleep 2
     rm -rf downloader
               rm -rf DownloaderPage
