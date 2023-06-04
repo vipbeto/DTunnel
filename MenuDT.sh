@@ -270,7 +270,7 @@ function console_menu() {
     echo ' [00] - SAIR'
     echo -e "╚════════════════•⊱✦⊰•════════════════╝" | lolcat
     echo -e " ╭──────────╮ ╭─────────╮ ╭──────────╮" | lolcat
-echo -e "\033[1;33m   P \033[1;36m➤ \033[47;1;36m Trocar Porta \033[0;31m      \033[1;33mD \033[1;36m➤ \033[47;1;36m DevID \033[0;31m      \033[1;33m   U \033[1;36m➤ \033[47;1;36m UpPage \033[0m"
+    echo -e "  P > Mudar Port    U > UpPainel     D > DEVICEiD "
     echo -e " ╰──────────╯ ╰─────────╯ ╰──────────╯" | lolcat
     echo
     read -p '★ Escolha uma opção: ' option
