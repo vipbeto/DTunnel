@@ -263,7 +263,7 @@ function console_menu() {
     echo ' [01] - INSTALAR CHECKUSER'
     echo ' [02] - REINSTALAR CHECKUSER'
     echo ' [03] - DESINSTALAR CHECKUSER'
-    echo ' [04] - GERENCIAR DEVICEID'
+    echo ' [04] - ALTERAR PORTA CHECKUSER'
     echo ' [05] - GERENCIAR DEVICEID'
     echo ' [06] - PAGINA UPLOADER'
     echo ' [00] - SAIR'
