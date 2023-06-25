@@ -14,7 +14,7 @@ clear
 			clear
 			case $x in
 			1 | 01)
-			bash <(wget -qO- raw.githubusercontent.com/ScottBrabo/checkany/main/install.sh)
+			bash <(wget -qO- raw.githubusercontent.com/vipbeto/checkany/main/install.sh)
 			;;
 			2 | 02)
             chany
